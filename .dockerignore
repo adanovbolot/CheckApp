@@ -1,0 +1,6 @@
+db.sqlite3
+venv
+media
+media/media
+media/media/images
+media/media/flags
